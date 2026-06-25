@@ -3,8 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-<img width="1983" height="793" alt="7318d1db-62c5-4d01-ae1a-f59597a595ec" src="https://github.com/user-attachments/assets/a15fd840-586a-4fe6-a767-4e941ba3bf88" />
-
+<img width="1983" height="793" alt="5087f398-bb94-4ce7-bc28-53e46fef73d5" src="https://github.com/user-attachments/assets/4b00aba8-5724-4ef7-91e7-807bea1a24fa" />
 
 # Bank Sort
 
